@@ -1,0 +1,6 @@
+Things to do:
+- Redesign UI
+- Implement user accounts using MongoDB
+- Increase dataset to include more food items 
+- Re-train model
+
